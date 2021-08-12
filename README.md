@@ -68,7 +68,7 @@ fully lightweight cloud linux desktop using fluxbox & NoVNC
    * Deploy.
    
  * Railway users :
-   * click => [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/cdr/deploy-code-server)<br>
+   * click => [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/fsteamID/fsteamOS)<br>
    * Set the repo name & variables.
    * Deploy.
    * [ ! ] The project takes a minute or two to load on Railway after the deployment, till that it will show 404 error, be patient.
