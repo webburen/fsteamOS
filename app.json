@@ -1,0 +1,24 @@
+{
+    "name": "fsteamidOS",
+    "description": "fully lightweight cloud linux desktop using fluxbox & NoVNC",
+    "repository": "https://github.com/fsteamID/fsteamOS.git",
+    "logo": "https://raw.githubusercontent.com/fsteamID/fsteamOS/master/img/fs.png",
+    "keywords": ["docker","ubuntu", "vscode", "novnc", "firefox", "brave", "fluxbox", "linux", "remote", "ssh", "vnc", "vubuntu"],
+    "stack": "container",
+    "env": {
+      "VNC_TITLE" : {
+        "description": "VNC Session Title, w/o spaces.",
+	      "value" : "fsteamOS",
+        "required" : true
+      } ,
+      "VNC_PASS": {
+        "description": "VNC server password w/o spaces.",
+        "required" : true
+      },
+      "VNC_RESOLUTION" : {
+        "description": "VNC Server Resolution in WxH, 720p is preferrable.",
+		"value" : "1280x720",
+        "required" : true
+        }
+    } 
+  }
