@@ -34,13 +34,13 @@ fully lightweight cloud linux desktop using fluxbox & NoVNC
 
 ## **Follow Me:**
  * **subscribe Youtube :**
- [!![subscribe](https://img.shields.io/youtube/channel/subscribers/UCpDSqRYuSqE1HEeTsZfk5kQ?style=social)]()
+ [![subscribe](https://img.shields.io/youtube/channel/subscribers/UCpDSqRYuSqE1HEeTsZfk5kQ?style=social)]()
  * **Fork This Project :**
- [!![fork](https://img.shields.io/github/forks/fsteamID/fsteamOS?style=social]()
+ [![fork](https://img.shields.io/github/forks/fsteamID/fsteamOS?style=social)]()
  * **Stars This Project :**
- [!![fork](https://img.shields.io/github/stars/fsteamID/fsteamOS?style=social]()
+ [![fork](https://img.shields.io/github/stars/fsteamID/fsteamOS?style=social)]()
  * **Follow me on github :**
- [!![fork](https://img.shields.io/github/followers/fsteamID?style=social]()
+ [![fork](https://img.shields.io/github/followers/fsteamID?style=social)]()
 * Dont Forget fork, follow & stars this project :
 
 ## **Screenshots :**
