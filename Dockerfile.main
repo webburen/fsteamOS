@@ -1,4 +1,4 @@
-FROM fsteamID/fsteamos:latest
+FROM fsteamid/fsteamos:latest
 
 ENV DEBIAN_FRONTEND=noninteractive \
 #VNC Server Password
