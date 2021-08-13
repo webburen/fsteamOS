@@ -97,7 +97,7 @@ fully lightweight cloud linux desktop using fluxbox & NoVNC
   * [√] save 
    ```
    user       : root
-   passwords: simplepass
+   passwords: samplepass
    
    ```
    
